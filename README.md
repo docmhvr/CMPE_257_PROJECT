@@ -13,10 +13,10 @@ Fall 2022
 ### Group Number
 3
 ### Team Members with github usernames
-* Wooyoung Chung     [JWK7](https://github.com/JWK7)
-* Mahavir Chandaliya [docmhvr](https://github.com/docmhvr)
-* Bhavana Gangula    [BhavanaGangula](https://github.com/BhavanaGangula)
-* Jiahong Zhan       [jiahongzhan](https://github.com/Jiahongzhan)
+* Wooyoung Chung  --   [JWK7](https://github.com/JWK7)
+* Mahavir Chandaliya -- [docmhvr](https://github.com/docmhvr)
+* Bhavana Gangula  --  [BhavanaGangula](https://github.com/BhavanaGangula)
+* Jiahong Zhan     --  [jiahongzhan](https://github.com/Jiahongzhan)
 
 ### Dataset
 

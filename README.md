@@ -30,6 +30,8 @@ The datasets were obtained from tutiempo.net. We are using two datasets:
 [Dataset external site](https://en.tutiempo.net/climate)
 
 
+### Description of the project
+Our team found a climate dataset from 1991 to 2021 for San Jose and Madrid. We want the training data to be able to predict future weather conditions in a given year. The specific process for the program will be based on the average annual temperature, annual average maximum temperature, average annual minimum temperature,rain or snow precipitation total annual, annual average wind speed, number of days with rain, number of days with snow, number of days with storm,number of foggy days,number of days with tornado and number of days with hail as input, Then predict the temperature and weather for the next week, month or year. According to the prediction performance of the model, the prediction accuracy of the model is analyzed.
 
 
 

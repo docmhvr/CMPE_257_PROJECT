@@ -2,7 +2,7 @@
 
 **Climate Change Prediction with Machine Learning**
 
-## Project Description
+## Explanation
 
 Purpose of this project aims to predict the yearly temperature change of a given city over a given time period. The output value should be numerically based on multiple extra factors like maximum temperature, minimum temperature, hPAAtSeaLevel, hPA, Humidity, Visibility, AverageWindSpeed, MaxSustainedWindSpeed, Fog and Precipitation
 
@@ -27,7 +27,7 @@ The datasets were obtained from tutiempo.net. We are using two datasets:
 2) Madrid weather data containing the weather outcome of everyday from 1991 to 1995
 [Madrid](https://en.tutiempo.net/climate/download/info/)
 
-[Dataset external site](https://en.tutiempo.net/climate)
+[Dataset external site](https://en.tutiempo.net/climate )
 
 
 ### Description of the project

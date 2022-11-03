@@ -4,7 +4,7 @@
 
 ## Project Description
 
-Purpose of this project aims to predict the yearly temperature change of a given city over a given time period. The output value should be numerically based on multiple extra factors like maximum temperature, minimum temperature, humidity, and rain or snow precipitation, storm, tornado and wind speed
+Purpose of this project aims to predict the yearly temperature change of a given city over a given time period. The output value should be numerically based on multiple extra factors like maximum temperature, minimum temperature, hPAAtSeaLevel, hPA, Humidity, Visibility, AverageWindSpeed, MaxSustainedWindSpeed, Fog and Precipitation
 
 ### Professor
 Carlos Rojas

@@ -1,26 +1,26 @@
 ---
-title: Semester Project [rename]
-date: "October 2021"
-author: Carlos Rojas, San José State University
-
-header-includes: |
-  \usepackage{booktabs}
-  \usepackage{caption}
+Title: Climate Change Prediction with Machine Learning
+Date: "November 2022"
+Authors: Wooyoung Chung | Mahavir Chandaliya |  Bhavana Gangula | Jiahong Zhan
 ---
 
 # Abstract
-
-Pizza [@pizza2000identification] is an understudied yet widely utilized implement for delivering in-vivo *Solanum lycopersicum* based liquid mediums in a variety of next-generation mastications studies. Here we describe a de novo approach for large scale *T. aestivum* assemblies based on protein folding that drastically reduces the generation time of the mutation rate.
+Abstract
 
 # Introduction
+Introduction
 
 # Methods
+Methods
 
 # Comparisons
+Comparisons
 
 # Example Analysis
+Example Analysis
 
 # Conclusions
-
+Conclusions
 
 # References
+References

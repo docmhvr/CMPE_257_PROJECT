@@ -38,7 +38,7 @@ Example Analysis
 Conclusions
 
 # References
-[1]	 Fradkov, A.L. Early History of Machine Learning. IFAC-PapersOnLine 2020, 53, 1385–1390. [http://doi.org/10.1016/j.ifacol.2020.12.1888](http://doi.org/10.1016/j.ifacol.2020.12.1888)
-[2]	Mahesh, B. Machine Learning Algorithms—A Review; International Journal of Science and Research: Raipur, India, 2019. [http://doi.org/10.21275/ART20203995](http://doi.org/10.21275/ART20203995).
-[3]	 Dhall, D.; Kaur, R.; Juneja, M. Machine Learning: A Review of the Algorithms and Its Applications. In Lecture Notes in Electrical Engineering, Proceedings of the ICRIC, Jammu, India, 8–9 March 2019; Singh, P.K., Kar, A.K., Singh, Y., Kolekar, M.H., Tanwar, S., Eds.;Springer International Publishing: Cham, Switzerland, 2020; pp. 47–63. [http://doi.org/10.1007/978-3-030-29407-6_5](http://doi.org/10.1007/978-3-030-29407-6_5)
-[4]	 Singh, A.; Thakur, N.; Sharma, A. A Review of Supervised Machine Learning Algorithms. In Proceedings of the 2016 3rd International Conference on Computing for Sustainable Global Development (INDIACom), New Delhi, India, 16–18 March 2016;pp. 1310–1315
+1) Fradkov, A.L. Early History of Machine Learning. IFAC-PapersOnLine 2020, 53, 1385–1390. [http://doi.org/10.1016/j.ifacol.2020.12.1888](http://doi.org/10.1016/j.ifacol.2020.12.1888)
+2) Mahesh, B. Machine Learning Algorithms—A Review; International Journal of Science and Research: Raipur, India, 2019. [http://doi.org/10.21275/ART20203995](http://doi.org/10.21275/ART20203995).
+3) Dhall, D.; Kaur, R.; Juneja, M. Machine Learning: A Review of the Algorithms and Its Applications. In Lecture Notes in Electrical Engineering, Proceedings of the ICRIC, Jammu, India, 8–9 March 2019; Singh, P.K., Kar, A.K., Singh, Y., Kolekar, M.H., Tanwar, S., Eds.;Springer International Publishing: Cham, Switzerland, 2020; pp. 47–63. [http://doi.org/10.1007/978-3-030-29407-6_5](http://doi.org/10.1007/978-3-030-29407-6_5)
+4) Singh, A.; Thakur, N.; Sharma, A. A Review of Supervised Machine Learning Algorithms. In Proceedings of the 2016 3rd International Conference on Computing for Sustainable Global Development (INDIACom), New Delhi, India, 16–18 March 2016;pp. 1310–1315

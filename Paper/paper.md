@@ -20,14 +20,11 @@ The datasets were obtained from tutiempo.net. We are using two datasets:
 [Dataset external site](https://en.tutiempo.net/climate )
 
 ## Data Preprocessing
-We performed the following pre-processing steps on the data: 
-a.	Data integration: combined the weather datasets of San Jose and Madrid.
-b.	Data cleaning: remove missing data.
-c.	Data reduction: remove unnecessary features.
-d.	Data transformation: create new features from current ones and convert the unit of temperature.
-
-
-
+We performed the following pre-processing steps on the data:
+1) Data integration: combined the weather datasets of San Jose and Madrid.
+2) Data cleaning: remove missing data.
+3) Data reduction: remove unnecessary features.
+4) Data transformation: create new features from current ones and convert the unit of temperature.
 
 # Methods
 Methods

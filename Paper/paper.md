@@ -15,7 +15,7 @@ The main purpose of this project is to give an overview of machine learning meth
 # Data
 ## Data Collection
 The datasets were obtained from [tutiempo.net](https://en.tutiempo.net/climate ). We are using two datasets:
-1) San Jose weather data containing the weather outcome of everyday from 2019 to 2021[san Jose](https://en.tutiempo.net/climate/ws-724945.html)
+1)San Jose weather data containing the weather outcome of everyday from 2019 to 2021[san Jose](https://en.tutiempo.net/climate/ws-724945.html)
 2) Madrid weather data containing the weather outcome of everyday from 1991 to 1995[Madrid](https://en.tutiempo.net/climate/download/info/)
 The data used will include a variety of additional factors, such as the highest and lowest possible temperatures, the highest and lowest pressures at sea level, the humidity, the visibility, the average wind speed, the maximum sustained wind speed, fog, and other variables.
 

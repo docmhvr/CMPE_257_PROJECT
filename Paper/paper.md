@@ -31,9 +31,6 @@ We performed the following pre-processing steps on the data:
 # Methods
 Methods
 
-# Comparisons
-Comparisons
-
 # Example Analysis
 Example Analysis
 

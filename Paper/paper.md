@@ -17,8 +17,11 @@ The main purpose of this project is to give an overview of machine learning meth
 The datasets were obtained from [tutiempo.net](https://en.tutiempo.net/climate ). We are using two datasets:
 1) San Jose weather data containing the weather outcome of everyday from 2019 to 2021[san Jose](https://en.tutiempo.net/climate/ws-724945.html)
 2) Madrid weather data containing the weather outcome of everyday from 1991 to 1995[Madrid](https://en.tutiempo.net/climate/download/info/)
+The data used will include a variety of additional factors, such as the highest and lowest possible temperatures, the highest and lowest pressures at sea level, the humidity, the visibility, the average wind speed, the maximum sustained wind speed, fog, and other variables.
+
 
 ## Data Preprocessing
+The data that were collected over the course of the three years do not correspond with one another. For instance, in a given year there may have been an average temperature and a humidity that corresponded to that, but there may not have been a wind speed that corresponded to that or fog at that time. In order to get the data ready for machine learning, we followed these steps to align the data. This was necessary because the algorithms that power machine learning cannot effectively deal with missing data points.
 We performed the following pre-processing steps on the data:
 1) Data integration: combined the weather datasets of San Jose and Madrid.
 2) Data cleaning: remove missing data.

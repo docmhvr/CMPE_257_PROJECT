@@ -1,32 +1,11 @@
+---
+Title: Climate Change Prediction with Machine Learning
+Date: "November 2022"
+Authors: Wooyoung Chung | Mahavir Chandaliya |  Bhavana Gangula | Jiahong Zhan
+---
 
-
-Climate Change Prediction with Machine Learning
-
-Wooyoung Chung
-
-San Jose State University
-
-MS AI
-
-Mahavir Chandaliya
-
-San Jose State University
-
-MS AI
-
-Jiahong Zhan
-
-San Jose State University
-
-MS AI
-
-Bhavana Gangula
-
-San Jose State University
-
-MS AI
-
-Abstract—Debate over climate change is contentious, particu- techniques can be used as a new way to solve important and
+# Abstract
+Debate over climate change is contentious, particu- techniques can be used as a new way to solve important and
 
 larly in the US, where many people reject the idea that human complicated problems in weather forecasting and the study
 
@@ -88,7 +67,7 @@ The dataset was obtained through combining two datasets
 
 from tutiempo.net- San Jose weather data containing the
 
-I. INTRODUCTION
+## I. INTRODUCTION
 
 With the rise of big data, powerful supercomputers with weather outcome of everyday from 2019 to 2021 san Jose
 

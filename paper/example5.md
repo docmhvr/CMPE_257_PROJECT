@@ -1,5 +1,10 @@
 ---
-abstract: |
+Title: Climate Change Prediction with Machine Learning
+Date: "November 2022"
+Authors: Wooyoung Chung | Mahavir Chandaliya |  Bhavana Gangula | Jiahong Zhan
+---
+
+# Abstract
   Debate over climate change is contentious, particularly in the US,
   where many people reject the idea that human activity is causing it.
   It is critical to understand what causes the warming to better combat
@@ -17,15 +22,6 @@ abstract: |
   temperatures, the highest and lowest pressures at sea level, the
   humidity, the visibility, the average wind speed, the maximum
   sustained wind speed, fog, and other variables.
-author:
-- 
-- 
-- 
-- 
-title: |
-  Climate Change Prediction with Machine Learning\
----
-
 ::: IEEEkeywords
 component, formatting, style, styling, insert
 :::

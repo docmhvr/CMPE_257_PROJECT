@@ -92,10 +92,15 @@ new features from current ones, convert the unit of temperature, and
 normalization.
 
 ![Table1](table1.png)
+
 Table 1
+
 ![Heatmap](Heatmap.png)
+
 Fig. 1
+
 ![Temperature vs Humidity](TempvsHumidity.png)
+
 Fig. 2
 
 ## Data Exploration

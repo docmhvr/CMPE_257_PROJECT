@@ -22,9 +22,6 @@ Authors: Wooyoung Chung | Mahavir Chandaliya |  Bhavana Gangula | Jiahong Zhan
   temperatures, the highest and lowest pressures at sea level, the
   humidity, the visibility, the average wind speed, the maximum
   sustained wind speed, fog, and other variables.
-::: IEEEkeywords
-component, formatting, style, styling, insert
-:::
 
 # Introduction
 
@@ -106,8 +103,8 @@ Fig. 2
 Before creating the model, it is important to perform data exploration
 to check if there are any underlying pattern. From our analysis, we were
 successfully able to confirm the existence of pattern for predicting
-precipitation. The heatmap seen in Table
-[1](#Heatmap){reference-type="ref" reference="Heatmap"} show there are a
+precipitation. The heatmap seen in Fig.
+[1] show there are a
 lot of correlation between the features. Most notably, there are
 positive correlation between humidity and wind speeds.This infers that
 by high humidity and wind speeds leads to an increase in chance of
@@ -116,9 +113,7 @@ temperature, pressure at sea level, and visibility. This shows that
 there are the increase in temperature, pressure at sea level, and
 visibility leads to a decrease in the chance of precipitation. We can
 also see the pattern between features beyond just precipitation. Based
-on the heatmap Table [1](#Heatmap){reference-type="ref"
-reference="Heatmap"} and the scatter plot [2](#TH){reference-type="ref"
-reference="TH"}, we can see that there is a negative correlation between
+on the heatmap Table [1] and the scatter plot [2], we can see that there is a negative correlation between
 temperature and humidity.
 
 ## Model Creation
@@ -155,11 +150,13 @@ Algorithm used for classification and regression problems. It works by
 finding an optimal separation line called a hyperplane to accurately
 separate 2 or more different classes. The goal is to find the optimal
 hyperplane separation through training the linearly separable data with
-the SVM algorithm. **Logistic regression** A logistic regression model
+the SVM algorithm. 
+**Logistic regression** A logistic regression model
 predicts a dependent data variable by analyzing the relationship between
 one or more existing independent variables. Logistic regression is
 easier to implement, interpret, and very efficient to train. 10 models
-were created using max iteration size of 1,000,000. **Neural Networks**
+were created using max iteration size of 1,000,000. 
+**Neural Networks**
 A simple Neural network for classification is made up of a single hidden
 layer and a non-linear activation function. We have built a Neural Net
 with 4 layers of 12 neurons and an activation layer. Activation
@@ -168,7 +165,8 @@ of a neural network. Activation functions also help normalize the output
 of each neuron to a range between -1, 0 and 1. We have used the Sigmoid
 Function that outputs the probabilities in the range of 0 to 1. 4 models
 were created using different epochs \[1,000,2,000,3,000,10,000\] with
-adam optimizer **Random Forest** Random forest is basically the
+adam optimizer 
+**Random Forest** Random forest is basically the
 combination of multiple individual decision trees to act as an ensemble.
 Ensemble learning can be defined as a paradigm whereby multiple learners
 are trained to solve the same problem. When it comes to classification
@@ -184,7 +182,7 @@ Table 2
 
 This section will cover the analysis and juxtapose the different models
 created. The error results of the models can be seen in Table
-[1](#2Step){reference-type="ref" reference="2Step"}. Based on the 2-step
+[1]. Based on the 2-step
 method of step 1 error of 0.05 and step 2 error of 0.15, we determined
 neural networks to be the best model for predicting precipitation.
 

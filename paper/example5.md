@@ -98,29 +98,12 @@ reduction: remove unnecessary features 4) Data transformation: create
 new features from current ones, convert the unit of temperature, and
 normalization.
 
-::: table*
-  Data Mean/Max/Min                                                               
-  ------------------- ---------- --------- ---------- ------------ -------------- --------
-  Data                Temp (F)   hPA       Humidity   Visibility   AvgWindSpeed   Fog
-  OriginalMean        60.3       985.73    61.19      13.67        13.67          0.0377
-  OriginalMax         89.78      1030.9    98.00      19.00        41.9           1
-  OriginalMin         28.94      934.00    12.00      0.60         0.60           0
-  RainedMean          55.15      979.65    73.89      12.80        12.6           0.03
-  RainedMax           88.7       1026.4    97.00      16.1         41.9           1
-  RainedMin           36.32      934.2     12.00      2.10         1.10           0
-  NotRainedMean       61.66      987.20    58.36      13.88        9.62           0.039
-  NotRainedMax        89.78      1030.90   98.00      19.00        34.10          1
-  NotRainedMin        28.94      934.00    15         0.60         0.60           0
-:::
-
-::: center
-![Heatmap](Heatmap.png){#Heatmap width=".4\\textwidth"}
-:::
-
-::: center
-![Temperature vs Humidity](TempvsHumidity.png){#TH
-width=".4\\textwidth"}
-:::
+![Table1](table1.png)
+Table 1
+![Heatmap](Heatmap.png)
+Fig. 1
+![Temperature vs Humidity](TempvsHumidity.png)
+Fig. 2
 
 ## Data Exploration
 
@@ -197,18 +180,9 @@ using Random Forests, the idea is that the combination of outputs of
 mutually exclusive nodes will outperform any individual models which are
 then said to be the predicted output.
 
-::: center
-::: {#2Step}
-  Model                   Eout     Ein      Eout-Ein
-  ----------------------- -------- -------- ----------
-  Logistic Regression     0.1414   0.0905   0.0593
-  Neural Network          0.1324   0.1034   0.0288
-  Random Forest           0.1206   0        0.1206
-  Single Vector Machine   0.1324   0.1315   0.0009
 
-  : 2 Step Model Errors
-:::
-:::
+![Table1](table2.png)
+Table 2
 
 # Results
 
